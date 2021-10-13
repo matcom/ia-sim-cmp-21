@@ -2,7 +2,7 @@
 name: Registro de proyecto
 about: Para registrar un nuevo proyecto
 title: ''
-labels: ''
+labels: 'En revisión'
 assignees: ''
 
 ---
@@ -31,10 +31,10 @@ _(Entre 100 y 200 palabras de resumen de la idea del proyecto, destacando el dom
 
 > Estos elementos serán chequeados por los profesores de la asignatura para aprobar el proyecto.
 
-- [ ] El repositorio indicado existe 
+- [ ] El repositorio indicado existe
 - [ ] El documento de reporte existe, y tiene la estructura inicial (nombre del proyecto, autores, breve descripción)
 - [ ] Los miembros del equipo tienen usuarios en Github debidamente identificados (avatar, nombre completo, y página de perfil)
-- [ ] El resumen describe una idea factible y de complejidad adecuada 
+- [ ] El resumen describe una idea factible y de complejidad adecuada
 
 En caso de que algunas de las condiciones anteriores no se cumplan, en este issue les dejaremos todos los comentarios y discusiones necesarias para lograr la aprobación del proyecto.
 
