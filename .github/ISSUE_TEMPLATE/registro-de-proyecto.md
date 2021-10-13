@@ -2,7 +2,7 @@
 name: Registro de proyecto
 about: Para registrar un nuevo proyecto
 title: ''
-labels: 'En revisión'
+labels: En revisión
 assignees: ''
 
 ---
