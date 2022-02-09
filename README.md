@@ -18,4 +18,19 @@ La revisión de los proyectos será presencial. El horario de revisión es el si
 
 | **Día** | **Hora** | **Proyecto** | **Tribunal** |
 |---------|----------|--------------|--------------|
-| Viernes 28 | 11 AM | [Football Simulation](https://github.com/matcom/ia-sim-cmp-21/issues/4) | Piad, Yudivian |
+| Viernes 11 | 11 AM | [Football Simulation](https://github.com/matcom/ia-sim-cmp-21/issues/4) | Piad, Yudivian |
+| Viernes 11 | 2 PM  | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Yudivian, Leynier, Bermúdez |
+| Viernes 11 | 2 PM  | [NumLab](https://github.com/matcom/ia-sim-cmp-21/issues/13) | Piad, Daniel, Loraine |
+| Viernes 11 | 3 PM  | [Life Taking Over](https://github.com/matcom/ia-sim-cmp-21/issues/10) | Yudivian, Leynier, Bermúdez |
+| Viernes 11 | 3 PM  | [Medical Treatment](https://github.com/matcom/ia-sim-cmp-21/issues/12) | Piad, Daniel, Loraine |
+| Viernes 11 | 4 PM  | [Road to Civilization](https://github.com/matcom/ia-sim-cmp-21/issues/6) | Yudivian, Leynier, Bermúdez |
+| Viernes 11 | 4 PM  | [Evolution](https://github.com/matcom/ia-sim-cmp-21/issues/7) | Piad, Daniel, Loraine |
+| Lunes 14   | 10 AM | [Garage Sale](https://github.com/matcom/ia-sim-cmp-21/issues/18) | Yudivian, Noly, Raúl |
+| Lunes 14   | 10 AM | [Battlefield Simulator](https://github.com/matcom/ia-sim-cmp-21/issues/17) | Yudivian, Dayany, Estevanell |
+| Lunes 14   | 11 AM | [Engrafos](https://github.com/matcom/ia-sim-cmp-21/issues/15) | Piad, Noly, Raúl |
+| Lunes 14   | 11 AM | [Peligro en la órbita](https://github.com/matcom/ia-sim-cmp-21/issues/14) | Yudivian, Dayany, Estevanell |
+| Lunes 14   | 2 PM | [Proceso de aprendizaje](https://github.com/matcom/ia-sim-cmp-21/issues/11) | Piad, Noly, Raúl |
+| Lunes 14   | 2 PM | [BattleSim](https://github.com/matcom/ia-sim-cmp-21/issues/9) | Yudivian, Dayany, Estevanell |
+| Lunes 14   | 3 PM | [Gestión de rutas](https://github.com/matcom/ia-sim-cmp-21/issues/3) | Piad, Noly, Raúl |
+| Lunes 14   | 3 PM | [MotoGP](https://github.com/matcom/ia-sim-cmp-21/issues/1) | Yudivian, Dayany, Estevanell |
+| Martes 15 | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian |
