@@ -11,3 +11,11 @@ Para registrar un nuevo proyecto, los miembros de cada equipo deben [abrir un _i
 Todos estos elementos serán necesarios para comenzar con el proceso de aprobación del proyecto.
 En el _issue_ que abrirán podremos discutir cualquier cambio que sea necesario en su definición para lograr que el proyecto sea aprobado.
 Una vez aprobado (o rechazado) el _issue_ será cerrado con la etiqueta adecuada y podrán comenzar a trabajar.
+
+## Revisión
+
+La revisión de los proyectos será presencial. El horario de revisión es el siguiente:
+
+| **Día** | **Hora** | **Proyecto** | **Tribunal** |
+|---------|----------|--------------|--------------|
+| Viernes 28 | 11 AM | [Football Simulation](https://github.com/matcom/ia-sim-cmp-21/issues/4) | Piad, Yudivian |
