@@ -21,7 +21,7 @@ El horario de revisión es el siguiente:
 | **Día** | **Hora** | **Proyecto** | **Tribunal** |
 |---------|----------|--------------|--------------|
 | Viernes 11 | 11 AM | [Football Simulation](https://github.com/matcom/ia-sim-cmp-21/issues/4) | Piad, Yudivian |
-| Viernes 11 | 2 PM  | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Yudivian, Leynier, Bermúdez |
+| Viernes 11 | 2 PM  | [MotoGP](https://github.com/matcom/ia-sim-cmp-21/issues/1) | Yudivian, Leynier, Bermúdez |
 | Viernes 11 | 2 PM  | [NumLab](https://github.com/matcom/ia-sim-cmp-21/issues/13) | Piad, Estevanell, Loraine |
 | Viernes 11 | 3 PM  | [Life Taking Over](https://github.com/matcom/ia-sim-cmp-21/issues/10) | Yudivian, Leynier, Bermúdez |
 | Viernes 11 | 3 PM  | [Medical Treatment](https://github.com/matcom/ia-sim-cmp-21/issues/12) | Piad, Estevanell, Loraine |
@@ -34,5 +34,5 @@ El horario de revisión es el siguiente:
 | Lunes 14   | 2 PM | [Proceso de aprendizaje](https://github.com/matcom/ia-sim-cmp-21/issues/11) | Yudivian, Noly, Raúl |
 | Lunes 14   | 2 PM | [BattleSim](https://github.com/matcom/ia-sim-cmp-21/issues/9) | Piad, Dayany, Daniel |
 | Lunes 14   | 3 PM | [Gestión de rutas](https://github.com/matcom/ia-sim-cmp-21/issues/3) | Yudivian, Noly, Raúl |
-| Lunes 14   | 3 PM | [MotoGP](https://github.com/matcom/ia-sim-cmp-21/issues/1) | Piad, Dayany, Daniel |
+| Lunes 14   | 3 PM | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Piad, Dayany, Daniel |
 | Martes 15 | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian |
