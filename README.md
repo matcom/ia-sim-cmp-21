@@ -14,7 +14,9 @@ Una vez aprobado (o rechazado) el _issue_ será cerrado con la etiqueta adecuada
 
 ## Revisión
 
-La revisión de los proyectos será presencial. El horario de revisión es el siguiente:
+La revisión de los proyectos será presencial. Cada equipo deberá subir a su repositorio **todo el código** que vaya a ser revisado y **completar el informe** antes de comenzar la primera sesión (Viernes 11, 11 AM). Solo se revisará el estado del proyecto hasta el commit más tardío antes de ese momento.
+
+El horario de revisión es el siguiente:
 
 | **Día** | **Hora** | **Proyecto** | **Tribunal** |
 |---------|----------|--------------|--------------|
