@@ -29,7 +29,7 @@ El horario de revisión es el siguiente:
 | Lunes 14   | 10 AM | [Garage Sale](https://github.com/matcom/ia-sim-cmp-21/issues/18) | Yudivian, Noly, Raúl | Extraordinario|
 | Lunes 14   | 10 AM | [Battlefield Simulator](https://github.com/matcom/ia-sim-cmp-21/issues/17) | Piad, Dayany, Daniel | Extraordinario|
 | Lunes 14   | 11 AM | [Engrafos](https://github.com/matcom/ia-sim-cmp-21/issues/15) | Yudivian, Noly, Raúl | |
-| Lunes 14   | 11 AM | [Peligro en la órbita](https://github.com/matcom/ia-sim-cmp-21/issues/14) | Piad, Dayany, Daniel | |
+| Lunes 14   | 11 AM | [Peligro en la órbita](https://github.com/matcom/ia-sim-cmp-21/issues/14) | Piad, Dayany, Daniel | Extraordinario|
 | Lunes 14   | 12 PM | [NumLab](https://github.com/matcom/ia-sim-cmp-21/issues/13) | Piad, Dayany, Daniel | |
 | Lunes 14   | 2 PM  | [Proceso de aprendizaje](https://github.com/matcom/ia-sim-cmp-21/issues/11) | Yudivian, Noly, Raúl | |
 | Lunes 14   | 2 PM  | [BattleSim](https://github.com/matcom/ia-sim-cmp-21/issues/9) | Piad, Dayany, Daniel | |
