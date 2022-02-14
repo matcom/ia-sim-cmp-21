@@ -19,7 +19,7 @@ La revisión de los proyectos será presencial. Cada equipo deberá subir a su r
 El horario de revisión es el siguiente:
 
 | **Día** | **Hora** | **Proyecto** | **Tribunal** | **Revisión** |
-|---------|----------|--------------|--------------|
+|---------|----------|--------------|--------------|--------------|
 | Viernes 11 | 11 AM | [Football Simulation](https://github.com/matcom/ia-sim-cmp-21/issues/4) | Piad, Yudivian | Pendiente a cambios|
 | Viernes 11 | 2 PM  | [MotoGP](https://github.com/matcom/ia-sim-cmp-21/issues/1) | Yudivian, Leynier, Bermúdez | Pendiente a cambios
 | Viernes 11 | 3 PM  | [Life Taking Over](https://github.com/matcom/ia-sim-cmp-21/issues/10) | Yudivian, Leynier, Bermúdez | Extraordinario|
