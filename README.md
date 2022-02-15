@@ -35,4 +35,4 @@ El horario de revisión es el siguiente:
 | Lunes 14   | 2 PM  | [BattleSim](https://github.com/matcom/ia-sim-cmp-21/issues/9) | Piad, Dayany, Daniel | Pendiente a cambios|
 | Lunes 14   | 3 PM  | [Gestión de rutas](https://github.com/matcom/ia-sim-cmp-21/issues/3) | Yudivian, Noly, Raúl | Revisado|
 | Lunes 14   | 3 PM  | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Piad, Dayany, Daniel | Revisado|
-| Martes 15  | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian | |
+| Martes 15  | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian | Extraordinario|
