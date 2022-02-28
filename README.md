@@ -25,7 +25,7 @@ El horario de revisión es el siguiente:
 | Viernes 11 | 3 PM  | [Life Taking Over](https://github.com/matcom/ia-sim-cmp-21/issues/10) | Yudivian, Leynier, Bermúdez | Mundial, no han concluido aún la parte compilación|
 | Viernes 11 | 3 PM  | [Medical Treatment](https://github.com/matcom/ia-sim-cmp-21/issues/12) | Piad, Estevanell, Loraine | 5 |
 | Viernes 11 | 4 PM  | [Road to Civilization](https://github.com/matcom/ia-sim-cmp-21/issues/6) | Yudivian, Leynier, Bermúdez | 4 |
-| Viernes 11 | 4 PM  | [Evolution](https://github.com/matcom/ia-sim-cmp-21/issues/7) | Piad, Estevanell, Loraine | 4 |
+| Viernes 11 | 4 PM  | [Evolution](https://github.com/matcom/ia-sim-cmp-21/issues/7) | Piad, Estevanell, Loraine | 4 (CMP), 5 (IA, SIM) |
 | Lunes 14   | 10 AM | [Garage Sale](https://github.com/matcom/ia-sim-cmp-21/issues/18) | Yudivian, Noly, Raúl | Mundial, no han concluido parte de simulación y de IA|
 | Lunes 14   | 10 AM | [Battlefield Simulator](https://github.com/matcom/ia-sim-cmp-21/issues/17) | Piad, Dayany, Daniel | Mundial, todavía no logran que les funcione el compilador|
 | Lunes 14   | 11 AM | [Engrafos](https://github.com/matcom/ia-sim-cmp-21/issues/15) | Yudivian, Noly, Raúl | Mundial, les falta por integrar|
@@ -35,6 +35,6 @@ El horario de revisión es el siguiente:
 | Lunes 14   | 2 PM  | [BattleSim](https://github.com/matcom/ia-sim-cmp-21/issues/9) | Piad, Dayany, Daniel | 5 | 
 | Lunes 14   | 3 PM  | [Gestión de rutas](https://github.com/matcom/ia-sim-cmp-21/issues/3) | Yudivian, Noly, Raúl | 5 |
 | Lunes 14   | 3 PM  | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Piad, Dayany, Daniel | 5 |
-| Martes 15  | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian | Aprobado |
-|            |       | [CryptoSimulator](https://github.com/matcom/ia-sim-cmp-21/issues/19) | Piad, Yudivian | Aprobado |
+| Martes 15  | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian | 4 |
+|            |       | [CryptoSimulator](https://github.com/matcom/ia-sim-cmp-21/issues/19) | Piad, Yudivian | 5 |
 |            |       | [Parallel Sim](https://github.com/VictorLantigua/ParallelismSimulation.git) | Yudivian | Mundial, está solo falta compilación para verlo como un todo|
