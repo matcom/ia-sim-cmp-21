@@ -28,7 +28,7 @@ El horario de revisión es el siguiente:
 | Viernes 11 | 4 PM  | [Evolution](https://github.com/matcom/ia-sim-cmp-21/issues/7) | Piad, Estevanell, Loraine | 4 (CMP), 5 (IA, SIM) |
 | Lunes 14   | 10 AM | [Garage Sale](https://github.com/matcom/ia-sim-cmp-21/issues/18) | Yudivian, Noly, Raúl | 4, 3 en IA|
 | Lunes 14   | 10 AM | [Battlefield Simulator](https://github.com/matcom/ia-sim-cmp-21/issues/17) | Piad, Dayany, Daniel | 4|
-| Lunes 14   | 11 AM | [Engrafos](https://github.com/matcom/ia-sim-cmp-21/issues/15) | Yudivian, Noly, Raúl | Mundial, les falta por integrar|
+| Lunes 14   | 11 AM | [Engrafos](https://github.com/matcom/ia-sim-cmp-21/issues/15) | Yudivian, Noly, Raúl | 2 en compilación, 3 en Ia y Sim|
 | Lunes 14   | 11 AM | [Peligro en la órbita](https://github.com/matcom/ia-sim-cmp-21/issues/14) | Piad, Dayany, Daniel | 4, 3 en IA Daniel de la Cruz no se evaluó|
 | Lunes 14   | 12 PM | [NumLab](https://github.com/matcom/ia-sim-cmp-21/issues/13) | Piad, Dayany, Daniel | 5|
 | Lunes 14   | 2 PM  | [Proceso de aprendizaje](https://github.com/matcom/ia-sim-cmp-21/issues/11) | Yudivian, Noly, Raúl | 5 |
