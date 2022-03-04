@@ -37,4 +37,4 @@ El horario de revisión es el siguiente:
 | Lunes 14   | 3 PM  | [Game of Servers](https://github.com/matcom/ia-sim-cmp-21/issues/8) | Piad, Dayany, Daniel | 5 |
 | Martes 15  | 11 AM | [Bot de rebalanceo](https://github.com/matcom/ia-sim-cmp-21/issues/5) | Piad, Yudivian | 4 |
 |            |       | [CryptoSimulator](https://github.com/matcom/ia-sim-cmp-21/issues/19) | Piad, Yudivian | 5 |
-|            |       | [Parallel Sim](https://github.com/VictorLantigua/ParallelismSimulation.git) | Yudivian | Mundial, está solo falta compilación para verlo como un todo|
+|            |       | [Parallel Sim](https://github.com/VictorLantigua/ParallelismSimulation.git) | Yudivian | 2 en Comp, 3 en IA y Sim|
